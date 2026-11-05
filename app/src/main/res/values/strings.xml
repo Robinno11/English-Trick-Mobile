@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">English Trick</string>
+    <string name="app_slogan">English Trick No Speak No Trick</string>
+    <string name="menu_reading">Reading</string>
+    <string name="menu_listening">Listening</string>
+    <string name="menu_speaking">Speaking</string>
+    <string name="menu_writing">Writing</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_hard">Hard</string>
+</resources>
